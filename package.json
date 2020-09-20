@@ -1,0 +1,29 @@
+{
+  "name": "multi-styler",
+  "version": "0.1.0",
+  "description": "Utility for React Native styling to combine styles on a component and minimizing unnecessary re-renders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defualt/multi-styler.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "styles",
+    "performance"
+  ],
+  "author": "Brian Ephraim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/defualt/multi-styler/issues"
+  },
+  "homepage": "https://github.com/defualt/multi-styler#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "shallowequal": "^1.1.0"
+  }
+}
